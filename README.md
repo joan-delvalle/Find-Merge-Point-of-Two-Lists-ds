@@ -1,1 +1,1 @@
-# Find-Merge-Point-of-Two-Lists-ds
+# Find-Merge-Point-of-Two-Lists-ds This program builds two linked lists, links the second one to the first at a given index, and then uses a two-pointer approach to find their merge point. It outputs the data value of the node where both lists intersect.
